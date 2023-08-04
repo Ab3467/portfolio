@@ -1,6 +1,7 @@
 # My Portfolio Website
 
-![Website Screenshot](screenshot.png)
+![Screenshot (52)](https://github.com/Ab3467/portfolio/assets/138695838/ed3b34a7-ee38-4c71-87dc-ba44458ac185)
+
 
 This is my personal portfolio website showcasing my projects, skills, and experience. It's built using HTML, CSS, and JavaScript.
 
@@ -31,9 +32,4 @@ This portfolio website serves as an online resume and a showcase of my work. It 
 - Contact Form: A simple contact form for users to reach out directly from the website.
 - Smooth Scrolling: Smooth scrolling effect for enhanced user experience.
 
-## Installation
 
-1. Clone this repository to your local machine using:
-
-```bash
-git clone https://github.com/your-username/your-portfolio.git
